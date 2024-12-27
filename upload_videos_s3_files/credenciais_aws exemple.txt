@@ -1,0 +1,12 @@
+
+//------------------------------------------------------
+
+// Credenciais da AWS
+$CFG->aws_key = 'Suas_Credenciais';
+$CFG->aws_secret = 'Suas_Credenciais';
+
+//------------------------------------------------------
+
+// Credenciais AWS - Métricas
+$CFG->AWS_ACCESS_KEY_ID = 'Suas_Credenciais';
+$CFG->AWS_SECRET_ACCESS_KEY = 'Suas_Credenciais';
